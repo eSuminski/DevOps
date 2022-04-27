@@ -1,2 +1,2 @@
 # DevOps
-for instance example
+for instance example setting up CI pipeline
