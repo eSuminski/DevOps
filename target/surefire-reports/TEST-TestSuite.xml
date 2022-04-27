@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="0.726" tests="5" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\EricSuminski\Desktop\DevOps\target\test-classes;C:\Users\EricSuminski\Desktop\DevOps\target\classes;C:\Users\EricSuminski\.m2\repository\io\javalin\javalin\4.5.0.RC0\javalin-4.5.0.RC0.jar;C:\Users\EricSuminski\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\jetty-server\9.4.45.v20220203\jetty-server-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\jetty-http\9.4.45.v20220203\jetty-http-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\jetty-util\9.4.45.v20220203\jetty-util-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\jetty-io\9.4.45.v20220203\jetty-io-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\jetty-webapp\9.4.45.v20220203\jetty-webapp-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\jetty-xml\9.4.45.v20220203\jetty-xml-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\jetty-servlet\9.4.45.v20220203\jetty-servlet-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\jetty-security\9.4.45.v20220203\jetty-security-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\jetty-util-ajax\9.4.45.v20220203\jetty-util-ajax-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\websocket\websocket-server\9.4.45.v20220203\websocket-server-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\websocket\websocket-common\9.4.45.v20220203\websocket-common-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\websocket\websocket-api\9.4.45.v20220203\websocket-api-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\websocket\websocket-client\9.4.45.v20220203\websocket-client-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\jetty-client\9.4.45.v20220203\jetty-client-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\websocket\websocket-servlet\9.4.45.v20220203\websocket-servlet-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-jdk8\1.5.32\kotlin-stdlib-jdk8-1.5.32.jar;C:\Users\EricSuminski\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib\1.5.32\kotlin-stdlib-1.5.32.jar;C:\Users\EricSuminski\.m2\repository\org\jetbrains\annotations\13.0\annotations-13.0.jar;C:\Users\EricSuminski\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-common\1.5.32\kotlin-stdlib-common-1.5.32.jar;C:\Users\EricSuminski\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-jdk7\1.5.32\kotlin-stdlib-jdk7-1.5.32.jar;C:\Users\EricSuminski\.m2\repository\org\slf4j\slf4j-simple\1.7.31\slf4j-simple-1.7.31.jar;C:\Users\EricSuminski\.m2\repository\com\google\code\gson\gson\2.9.0\gson-2.9.0.jar;C:\Users\EricSuminski\.m2\repository\org\apache\logging\log4j\log4j-core\2.17.2\log4j-core-2.17.2.jar;C:\Users\EricSuminski\.m2\repository\org\apache\logging\log4j\log4j-api\2.17.2\log4j-api-2.17.2.jar;C:\Users\EricSuminski\.m2\repository\org\testng\testng\7.5\testng-7.5.jar;C:\Users\EricSuminski\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar;C:\Users\EricSuminski\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\EricSuminski\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_321\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\EricSuminski\AppData\Local\Temp\surefire5971332111813356543\surefirebooter5390372204474039160.jar C:\Users\EricSuminski\AppData\Local\Temp\surefire5971332111813356543 2022-04-26T10-49-08_668-jvmRun1 surefire2869575123745635921tmp surefire_08624932094478881115tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\EricSuminski\Desktop\DevOps\target\test-classes;C:\Users\EricSuminski\Desktop\DevOps\target\classes;C:\Users\EricSuminski\.m2\repository\io\javalin\javalin\4.5.0.RC0\javalin-4.5.0.RC0.jar;C:\Users\EricSuminski\.m2\repository\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\jetty-server\9.4.45.v20220203\jetty-server-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\javax\servlet\javax.servlet-api\3.1.0\javax.servlet-api-3.1.0.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\jetty-http\9.4.45.v20220203\jetty-http-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\jetty-util\9.4.45.v20220203\jetty-util-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\jetty-io\9.4.45.v20220203\jetty-io-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\jetty-webapp\9.4.45.v20220203\jetty-webapp-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\jetty-xml\9.4.45.v20220203\jetty-xml-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\jetty-servlet\9.4.45.v20220203\jetty-servlet-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\jetty-security\9.4.45.v20220203\jetty-security-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\jetty-util-ajax\9.4.45.v20220203\jetty-util-ajax-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\websocket\websocket-server\9.4.45.v20220203\websocket-server-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\websocket\websocket-common\9.4.45.v20220203\websocket-common-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\websocket\websocket-api\9.4.45.v20220203\websocket-api-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\websocket\websocket-client\9.4.45.v20220203\websocket-client-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\jetty-client\9.4.45.v20220203\jetty-client-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\eclipse\jetty\websocket\websocket-servlet\9.4.45.v20220203\websocket-servlet-9.4.45.v20220203.jar;C:\Users\EricSuminski\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-jdk8\1.5.32\kotlin-stdlib-jdk8-1.5.32.jar;C:\Users\EricSuminski\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib\1.5.32\kotlin-stdlib-1.5.32.jar;C:\Users\EricSuminski\.m2\repository\org\jetbrains\annotations\13.0\annotations-13.0.jar;C:\Users\EricSuminski\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-common\1.5.32\kotlin-stdlib-common-1.5.32.jar;C:\Users\EricSuminski\.m2\repository\org\jetbrains\kotlin\kotlin-stdlib-jdk7\1.5.32\kotlin-stdlib-jdk7-1.5.32.jar;C:\Users\EricSuminski\.m2\repository\org\slf4j\slf4j-simple\1.7.31\slf4j-simple-1.7.31.jar;C:\Users\EricSuminski\.m2\repository\com\google\code\gson\gson\2.9.0\gson-2.9.0.jar;C:\Users\EricSuminski\.m2\repository\org\apache\logging\log4j\log4j-core\2.17.2\log4j-core-2.17.2.jar;C:\Users\EricSuminski\.m2\repository\org\apache\logging\log4j\log4j-api\2.17.2\log4j-api-2.17.2.jar;C:\Users\EricSuminski\.m2\repository\org\testng\testng\7.5\testng-7.5.jar;C:\Users\EricSuminski\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar;C:\Users\EricSuminski\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\EricSuminski\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\EricSuminski"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_321\jre"/>
+    <property name="basedir" value="C:\Users\EricSuminski\Desktop\DevOps"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\EricSuminski\AppData\Local\Temp\surefire5971332111813356543\surefirebooter5390372204474039160.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_321\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_321\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_321\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_321\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_321\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_321\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_321\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_321\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_321-b07"/>
+    <property name="user.name" value="EricSuminski"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_321\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\EricSuminski\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\ERICSU~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_321"/>
+    <property name="user.dir" value="C:\Users\EricSuminski\Desktop\DevOps"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_321\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk-1.8.0._321\bin;C:\Program Files\Maven\apache-maven-3.8.1\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Users\EricSuminski\scoop\shims;C:\Users\EricSuminski\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\EricSuminski\AppData\Local\Programs\Python\Python310\;C:\Users\EricSuminski\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\EricSuminski\AppData\Local\Programs\Python\Python39\;C:\Users\EricSuminski\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2021.3\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2021.2\bin;C:\Users\EricSuminski\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\EricSuminski\AppData\Roaming\npm;C:\Program Files\Java\jdk1.8.0_321\bin;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.321-b07"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_321\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="personDoesNotExist" classname="com.revature.tests.dal.PersonDAOTests" time="0.005"/>
+  <testcase name="createPersonSuccess" classname="com.revature.tests.dal.PersonDAOTests" time="0"/>
+  <testcase name="getPersonSuccess" classname="com.revature.tests.dal.PersonDAOTests" time="0"/>
+  <testcase name="noDerek" classname="com.revature.tests.sl.PersonServiceTests" time="0"/>
+  <testcase name="personNotFound" classname="com.revature.tests.sl.PersonServiceTests" time="0"/>
+</testsuite>
