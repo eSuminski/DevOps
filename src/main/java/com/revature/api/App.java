@@ -43,7 +43,7 @@ public class App {
 
 
         logger.info("Starting web server");
-        app.start();
+        app.start(8000);
 
 
 
