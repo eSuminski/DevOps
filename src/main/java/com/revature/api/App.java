@@ -40,7 +40,7 @@ public class App {
 
         app.get("/person/{id}", personController.getPerson);
 
-
+        // I plan on adding more routes in the future
 
         logger.info("Starting web server");
         app.start(8000);
